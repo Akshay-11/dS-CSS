@@ -22,7 +22,7 @@ This is free : you can redistribute it and/or modify it under the terms of the G
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 #About dS-CSS
-80+ colors in our library which you can add to backgrounds, text and borders . Large no. of animations added . You just need to write there name with your code . Example p class="animate fade". Here animation fade will automatically applied on paragraph . You dont need to write any other code .
+80+ colors in our library which you can add to backgrounds, text and borders . Large no. of animations added . You just need to write there name with your code . Example p class="animate-fade". Here animation fade will automatically applied on paragraph . You dont need to write any other code .
 
 #dS-CSS Backgrounds
 To add background-colors to just write ds-(color-name) . Example ds-red
