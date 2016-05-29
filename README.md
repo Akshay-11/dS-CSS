@@ -20,3 +20,18 @@ This project is licensed under the terms of the GNU General Public License versi
 http://www.gnu.org/licenses/gpl-3.0.html
 This is free : you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+#About dS-CSS
+80+ colors in our library which you can add to backgrounds, text and borders . Large no. of animations added . You just need to write there name with your code . Example <p class="animate fade">Content</p> . Here animation fade will automatically applied on paragraph . You dont need to write any other code .
+
+#dS-CSS Backgrounds
+To add background-colors to just write ds-(color-name) . Example ds-red
+
+#dS-CSS Borders
+To add different borders we have different value like ds-border-1 gives border of 1px , ds-border-3 gives border of 3px etc. There are many more things please check our documentation for more .
+
+#dS-CSS Documentation
+dS-CSS is wide . Go through the documentation for more .
+
+#dS-CSS Updates
+dS-CSS is updated timely so that we can give best experience to users .
