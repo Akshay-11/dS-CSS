@@ -3603,7 +3603,7 @@ ul.ds-tab li a:focus, .active {
     -webkit-transition: 0.3s;
     transition: 0.3s;
 }
-.ds-price .header {
+.ds-price .header1 {
     background-color: #111;
     color: white;
     font-size: 25px;
