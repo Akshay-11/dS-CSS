@@ -6,7 +6,7 @@ A Modern CSS Framework . It removes difficulty of switching between HTML and CSS
 <button class="ds-button ds-sea-green ds-text-white ds-padding-xlarge ds-margin-top ds-medium">Explore Now</button>
 ```
 #####Project Website: http://ds-css.16mb.com
-#####GitHub Repository: https://github.com/akshaysaini49/dS-CSS
+#####GitHub Repository: https://github.com/ds-css/dS-CSS/
 
 ####How to use ?
 Just add this css link in your website or download our file : http://ds-css.16mb.com/css/ds.css
@@ -100,7 +100,7 @@ To build a website we have to learn html,css,javascript,jquery,bootstrap just to
 - ds-right
 - ds-justify
 
-####There are many more things in ds-css . Just go through documentation to [know more](https://github.com/akshaysaini49/dS-CSS/blob/master/documentation.pdf) .
+####There are many more things in ds-css . Just go through documentation to [know more](https://github.com/ds-css/dS-CSS/blob/master/documentation.pdf) .
 
 ####About dS-CSS
 80+ colors in our library which you can add to backgrounds, text and borders . Large no. of animations added . You just need to write there name with your code . Example p class="animate-fade". Here animation fade will automatically applied on paragraph . You dont need to write any other code .
