@@ -1,8 +1,8 @@
 # dS-CSS v1.0.1
 A modern CSS Framework . Small file , won't affect speed of your website .No javascript needed , no css needed , no need to switch between html and css file while creating website . Everything needed for a website already present in file . Saves time by building website in minutes . Easy to use . Fully Responsive and easy to learn .dS-CSS is Normalised .Normalisation done to remove cross browser bugs etc. Do check templates in our website . 
 
-#Project Website: http://ds-css.16mb.com
-#GitHub Repository: https://github.com/Akshay-Photocandy/dS-CSS/
+Project Website: http://ds-css.16mb.com
+GitHub Repository: https://github.com/Akshay-Photocandy/dS-CSS/
 
 #How to use ?
 Just add this css link in your website or download our file : http://ds-css.16mb.com/css/ds.css
