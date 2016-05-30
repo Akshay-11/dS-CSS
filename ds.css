@@ -1261,8 +1261,8 @@ textarea {
   /* Hide on device */
     
 @media (max-width:600px){.ds-hide-mobile{display:none!important}}
-@media (max-width:992px) and (min-width:601px){.w3-hide-tablet{display:none!important}}
-@media (min-width:993px){.w3-hide-desktop{display:none!important}}
+@media (max-width:992px) and (min-width:601px){.ds-hide-tablet{display:none!important}}
+@media (min-width:993px){.ds-hide-desktop{display:none!important}}
 
  /* Display Position */
 
