@@ -100,6 +100,18 @@ To build a website we have to learn html,css,javascript,jquery,bootstrap just to
 - ds-right
 - ds-justify
 
+####Clearfix
+- Used after closing ds-container or ds-full-container as it closes children of respective container and allows start of next container .
+```
+<div class="ds-full-container">
+<div class="row">
+//some content here//
+</div>
+</div>
+<div class="clearfix">
+</div>
+```
+
 ####There are many more things in ds-css . Just go through documentation to [know more](https://github.com/ds-css/dS-CSS/blob/master/documentation.pdf) .
 
 ####About dS-CSS
