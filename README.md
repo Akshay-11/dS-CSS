@@ -6,11 +6,7 @@ A *modern*, *fully-responsive*, *lightweight* CSS framework to make websites in 
 
 It already contains all the necessary CSS, so you don't need to mess with styling the elements in your website - just use DS-CSS and focus on the content. It removes the difficulty of switching repeatedly between HTML and CSS files.  Contains all commonly used functionalities like **animations**, **carousels** etc. It saves your time while creating a website and is normalized - so no cross browser bugs!
 
-A simple example showing how to style a button using DS-CSS:
-
-```
-<button class="ds-button ds-sea-green ds-text-white ds-padding-xlarge">Explore Now</button>
-```
+A simple example showing how to style a button using DS-CSS: `<button class="ds-button ds-sea-green ds-text-white ds-padding-xlarge">Explore Now</button>`
 
 
 ## How to use?
