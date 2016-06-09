@@ -1,15 +1,26 @@
+# dS-CSS - The CSS framework you'll ever need
+
+A *modern*, *fully-responsive*, *lightweight* CSS framework to make any kind of website in no time!
+
 ![dS-CSS Logo](/images/logo1.png)
 
-A Modern CSS Framework . It removes difficulty of switching between HTML and CSS file while creating a website . It contains many HTML codes so you do not need to create any css file for your website , just use ds-css . It also has many other commonly used **plugins** like **carousels** etc. It saves your time to create a website and is normalized so no cross browser bugs .
+It already contains all the necessary CSS, so you don't need to mess with styling the elements in your website - just use DS-CSS and focus on the content. It removes the difficulty of switching repeatedly between HTML and CSS files.  Contains all commonly used functionalities like **animations**, **carousels** etc. It saves your time while creating a website and is normalized - so no cross browser bugs!
+
+A simple example showing how to style a button using DS-CSS:
 
 ```
 <button class="ds-button ds-sea-green ds-text-white ds-padding-xlarge ds-margin-top ds-medium">Explore Now</button>
 ```
-#####Project Website: http://ds-css.16mb.com
-#####GitHub Repository: https://github.com/ds-css/dS-CSS/
 
-####How to use ?
-Just add this css link in your website or download our file : http://ds-css.16mb.com/css/ds.css
+**Project Website:** http://ds-css.16mb.com
+**GitHub Repository:** https://github.com/ds-css/dS-CSS/
+
+### How to use?
+You can download the CSS file (http://ds-css.16mb.com/css/ds.css) or just include this code in your HTML to use DS-CSS directly:
+
+```
+<link rel="stylesheet" type="text/css" href="http://ds-css.16mb.com/css/ds.css" />
+```
 
 ####Why so special ?
 Easiest to use and learn . Saves time and its fully responsive .
