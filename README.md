@@ -1,34 +1,45 @@
-# dS-CSS - The CSS framework you'll ever need
+# dS-CSS
+####{ The CSS framework you'll ever need }
 
-A *modern*, *fully-responsive*, *lightweight* CSS framework to make any kind of website in no time!
+A *modern*, *fully-responsive*, *lightweight* CSS framework to make websites in no time!
 
-![dS-CSS Logo](/images/logo1.png)
+![dS-CSS Logo](https://raw.githubusercontent.com/anirudhkhanna/dS-CSS/master/logo-ds.png)
 
 It already contains all the necessary CSS, so you don't need to mess with styling the elements in your website - just use DS-CSS and focus on the content. It removes the difficulty of switching repeatedly between HTML and CSS files.  Contains all commonly used functionalities like **animations**, **carousels** etc. It saves your time while creating a website and is normalized - so no cross browser bugs!
 
 A simple example showing how to style a button using DS-CSS:
 
 ```
-<button class="ds-button ds-sea-green ds-text-white ds-padding-xlarge ds-margin-top ds-medium">Explore Now</button>
+<button class="ds-button ds-sea-green ds-text-white ds-padding-xlarge">Explore Now</button>
 ```
 
-**Project Website:** http://ds-css.16mb.com
-**GitHub Repository:** https://github.com/ds-css/dS-CSS/
+**Project Website:** http://ds-css.16mb.com | **GitHub Repository:** https://github.com/ds-css/dS-CSS/
 
-### How to use?
+
+## How to use?
 You can download the CSS file (http://ds-css.16mb.com/css/ds.css) or just include this code in your HTML to use DS-CSS directly:
 
 ```
 <link rel="stylesheet" type="text/css" href="http://ds-css.16mb.com/css/ds.css" />
 ```
 
-####Why so special ?
-Easiest to use and learn . Saves time and its fully responsive .
 
-####Behind the Idea ?
-To build a website we have to learn html,css,javascript,jquery,bootstrap just to give attractivness to the website . If we have a css file which has already written css for every code needed in website and is also fully responsive , what can be so easier than this . Why to pay for websites if you can build your own by just giving some 2-3 hours learning ds-css .
+## Why so special?
+* Easiest to use and learn
+* Saves time
+* You don't have to worry too much about styles and responsive layout - just focus on your content
+* Fully responsive
+* Normalized - no cross-browser issues
+* Beautiful and aesthetic styles
 
-####Animations in dS-CSS ?
+
+## Behind the idea
+To build a website, we have to focus extensively on CSS styling just to ensure that the site is attractive the layout is unbreakable. So why not use a CSS file which already has beautifully coded CSS classes for every element needed to build a website? What more - it is also fully responsive!
+
+
+## Some examples
+
+### Animations in dS-CSS ?
 - animate-top
 - animate-bottom
 - animate-left
@@ -43,7 +54,8 @@ To build a website we have to learn html,css,javascript,jquery,bootstrap just to
 <i class="fa fa-car animate-top" style="font-size:48px;"></i>
 </div>
 ```
-####Borders in dS-CSS ?
+
+### Borders in dS-CSS ?
 - ds-border (add a simple border)
 - ds-border1 (add 1px solid border )
 - ds-border2 (add 2px solid border )
