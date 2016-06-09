@@ -152,8 +152,7 @@ To build a website, we have to focus extensively on CSS styling just to ensure t
 <div class="ds-full-container">
 <div class="row">Some content here.</div>
 </div>
-<div class="clearfix">
-</div>
+<div class="clearfix"></div>
 
 ```
 
