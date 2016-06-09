@@ -1076,7 +1076,7 @@ textarea {
  /* Overlay */
  
 .ds-overlay{
-position:fixed;
+position: relative;
 width:100%;
 height:100%;
 top:0;
